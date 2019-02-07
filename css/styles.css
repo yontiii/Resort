@@ -1,0 +1,42 @@
+nav{
+  padding: 10px;
+  background-color: grey;
+  border-radius: 25px;
+  border-bottom: 0px;
+}
+ul{
+  text-align: right;
+}
+li{
+  display: inline-block;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+  border-right: 1px solid white;
+  border-top: 1px solid white;
+  display: block;
+  letter-spacing: 6px;
+}
+nav ul li a:hover{
+  color: orange;
+}
+body{
+  background-color: #F2F5ED;
+  font-family: 'Roboto', sans-serif;
+}
+.introduction,#home{
+  text-align: center;
+  background-color: grey;
+}
+h2{
+  color:orange;
+}
+.contacts{
+  background-color: orange;
+  text-transform: full-width;
+  color: white;
+  text-align: center;
+}
