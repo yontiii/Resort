@@ -40,3 +40,13 @@ h2{
   color: white;
   text-align: center;
 }
+#luxury{
+  width: 300px;
+  height: 300px;
+}
+.accomodation-intro{
+  padding-left: 10px
+  display:flex;
+  flex-direction: row;
+  width: 48%
+}
